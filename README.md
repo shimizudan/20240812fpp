@@ -1,4 +1,4 @@
-このサイトは　さんの**有限射影平面神経衰弱**について考えてみたものです。
+このサイトは https://x.com/tsatie さんの**有限射影平面神経衰弱**について考えてみたものです。
 https://github.com/tsatie/SatieGitHubTest/blob/b89c36ae8c0fa2bc91ee702d58b34eef9a9bea44/20240809FiniteProjectivePlanesCardsB.ipynb
 
 わかったことは
